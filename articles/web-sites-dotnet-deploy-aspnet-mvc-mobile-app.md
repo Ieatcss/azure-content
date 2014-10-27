@@ -713,6 +713,7 @@ See Also
 
 -   [Bootstrap][BootstrapSite] site
 -   [Official Bootstrap Blog][]
+-   <a href="http://ieatcss.com/twitter-bootstrap-tutorial.html">Twitter Bootstrap Tutorial</a> from Ieatcss
 -   [Twitter Bootstrap Tutorial from Tutorial Republic][]
 -   [The Bootstrap Playground][]
 -   [W3C Recommendation Mobile Web Application Best Practices][]
